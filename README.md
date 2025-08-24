@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h4 align="left">Hi 👋! My name is Victor Celi Rivadeneira and I'm a Software Engineering student from Ecuador.  <br>I’m passionate about mobile apps, web development and building innovative solutions.🚀</h4>
 
